@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate Odoo Apps Developer.</h3>
+<h3 align="center">A passionate about Odoo Apps Developer.</h3>
 
 - 📫 How to reach me **asakib911.2@gmail.com**
 
